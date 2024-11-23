@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    volumes:
+      - ..:/app
+    environment:
+      - DISPLAY=:0
+
+  unittest:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.unittest
+    volumes:
+      - ..:/app

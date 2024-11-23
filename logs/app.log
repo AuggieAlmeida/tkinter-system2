@@ -1,0 +1,383 @@
+2024-11-22 02:03:53.874 | INFO     | __main__:run:130 - Iniciando DevGameLauncher
+2024-11-22 02:04:03.198 | INFO     | __main__:toggle_theme:111 - Tema alterado para: dark
+2024-11-22 02:04:03.817 | INFO     | __main__:toggle_theme:111 - Tema alterado para: dark
+2024-11-22 02:04:04.153 | INFO     | __main__:toggle_theme:111 - Tema alterado para: dark
+2024-11-22 02:04:04.508 | INFO     | __main__:toggle_theme:111 - Tema alterado para: dark
+2024-11-22 02:04:04.785 | INFO     | __main__:toggle_theme:111 - Tema alterado para: dark
+2024-11-22 02:04:04.994 | INFO     | __main__:toggle_theme:111 - Tema alterado para: dark
+2024-11-22 02:04:05.595 | INFO     | __main__:show_settings:125 - Navegando para: Configurações
+2024-11-22 02:04:06.752 | INFO     | __main__:show_games:115 - Navegando para: Jogos
+2024-11-22 02:04:07.543 | INFO     | __main__:show_tools:120 - Navegando para: Ferramentas
+2024-11-22 05:06:08.472 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "/private/tmp/com.apple.launchd.pZhjE1Dt6i/org.xquartz:0"
+2024-11-22 05:06:08.762 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "/private/tmp/com.apple.launchd.pZhjE1Dt6i/org.xquartz:0"
+2024-11-22 05:06:09.158 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "/private/tmp/com.apple.launchd.pZhjE1Dt6i/org.xquartz:0"
+2024-11-22 05:06:09.779 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "/private/tmp/com.apple.launchd.pZhjE1Dt6i/org.xquartz:0"
+2024-11-22 05:06:10.773 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "/private/tmp/com.apple.launchd.pZhjE1Dt6i/org.xquartz:0"
+2024-11-22 05:06:12.570 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "/private/tmp/com.apple.launchd.pZhjE1Dt6i/org.xquartz:0"
+2024-11-22 05:06:15.981 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "/private/tmp/com.apple.launchd.pZhjE1Dt6i/org.xquartz:0"
+2024-11-22 05:06:22.586 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "/private/tmp/com.apple.launchd.pZhjE1Dt6i/org.xquartz:0"
+2024-11-22 05:08:10.921 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "/private/tmp/com.apple.launchd.pZhjE1Dt6i/org.xquartz:0"
+2024-11-22 05:08:11.200 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "/private/tmp/com.apple.launchd.pZhjE1Dt6i/org.xquartz:0"
+2024-11-22 05:08:11.588 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "/private/tmp/com.apple.launchd.pZhjE1Dt6i/org.xquartz:0"
+2024-11-22 05:08:12.185 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "/private/tmp/com.apple.launchd.pZhjE1Dt6i/org.xquartz:0"
+2024-11-22 05:08:13.186 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "/private/tmp/com.apple.launchd.pZhjE1Dt6i/org.xquartz:0"
+2024-11-22 05:08:14.980 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "/private/tmp/com.apple.launchd.pZhjE1Dt6i/org.xquartz:0"
+2024-11-22 05:08:18.380 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "/private/tmp/com.apple.launchd.pZhjE1Dt6i/org.xquartz:0"
+2024-11-22 05:08:24.989 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "/private/tmp/com.apple.launchd.pZhjE1Dt6i/org.xquartz:0"
+2024-11-22 05:08:37.996 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "/private/tmp/com.apple.launchd.pZhjE1Dt6i/org.xquartz:0"
+2024-11-22 05:11:45.857 | INFO     | __main__:run:130 - Iniciando DevGameLauncher
+2024-11-22 05:11:51.031 | INFO     | __main__:run:130 - Iniciando DevGameLauncher
+2024-11-22 05:19:50.683 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 05:19:50.957 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 05:19:51.353 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 05:19:51.948 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 05:19:52.937 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 05:19:54.723 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 05:19:58.115 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 05:20:04.717 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 05:20:17.716 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 05:20:43.525 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 05:21:34.913 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 05:22:35.242 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 05:23:35.461 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 05:24:35.661 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 05:25:35.855 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 05:26:36.058 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 05:28:30.478 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 05:29:30.725 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 05:30:30.928 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 05:31:31.135 | ERROR    | __main__:main:143 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 02:43:46.685 | INFO     | src.models.base_model:init_database:51 - Banco de dados inicializado com sucesso
+2024-11-22 02:43:46.955 | INFO     | __main__:run:143 - Iniciando DevGameLauncher
+2024-11-22 02:43:49.734 | INFO     | __main__:show_games:125 - Navegando para: Jogos
+2024-11-22 02:43:51.381 | INFO     | __main__:toggle_theme:121 - Tema alterado para: dark
+2024-11-22 02:43:51.973 | INFO     | __main__:toggle_theme:121 - Tema alterado para: dark
+2024-11-22 02:43:52.740 | INFO     | __main__:show_settings:135 - Navegando para: Configurações
+2024-11-22 02:43:53.569 | INFO     | __main__:show_settings:135 - Navegando para: Configurações
+2024-11-22 02:43:55.650 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = light
+2024-11-22 02:43:56.340 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = dark
+2024-11-22 02:43:56.883 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = light
+2024-11-22 02:43:57.316 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = dark
+2024-11-22 02:43:57.790 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = light
+2024-11-22 02:43:58.179 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = dark
+2024-11-22 02:43:58.593 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = light
+2024-11-22 02:43:59.049 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = dark
+2024-11-22 02:43:59.462 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = light
+2024-11-22 02:43:59.832 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = dark
+2024-11-22 02:44:00.051 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = light
+2024-11-22 02:44:00.205 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = dark
+2024-11-22 02:44:00.615 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = light
+2024-11-22 02:44:01.251 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = dark
+2024-11-22 02:44:01.645 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = light
+2024-11-22 02:44:02.101 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = dark
+2024-11-22 02:44:02.560 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = light
+2024-11-22 02:44:03.273 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = dark
+2024-11-22 02:44:06.232 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = light
+2024-11-22 02:44:06.904 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = dark
+2024-11-22 02:44:07.721 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = light
+2024-11-22 02:44:08.391 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = dark
+2024-11-22 02:44:08.998 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = light
+2024-11-22 02:44:11.958 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = dark
+2024-11-22 02:44:16.862 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = light
+2024-11-22 02:44:18.004 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = dark
+2024-11-22 02:44:25.839 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = light
+2024-11-22 02:44:26.382 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = dark
+2024-11-22 02:44:26.901 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = light
+2024-11-22 02:44:28.061 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = dark
+2024-11-22 02:44:28.625 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = light
+2024-11-22 02:44:29.037 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = dark
+2024-11-22 02:44:29.580 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = light
+2024-11-22 02:44:58.112 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = dark
+2024-11-22 02:44:58.805 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = light
+2024-11-22 02:44:59.279 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = dark
+2024-11-22 02:45:02.300 | INFO     | __main__:toggle_theme:121 - Tema alterado para: dark
+2024-11-22 02:45:02.740 | INFO     | __main__:toggle_theme:121 - Tema alterado para: dark
+2024-11-22 02:45:03.542 | INFO     | __main__:toggle_theme:121 - Tema alterado para: dark
+2024-11-22 02:45:04.028 | INFO     | __main__:toggle_theme:121 - Tema alterado para: dark
+2024-11-22 02:46:16.937 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = light
+2024-11-22 02:46:17.307 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = dark
+2024-11-22 02:46:17.740 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = light
+2024-11-22 02:46:18.105 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = dark
+2024-11-22 02:46:19.201 | INFO     | __main__:toggle_theme:121 - Tema alterado para: dark
+2024-11-22 02:46:19.498 | INFO     | __main__:toggle_theme:121 - Tema alterado para: dark
+2024-11-22 02:46:19.727 | INFO     | __main__:toggle_theme:121 - Tema alterado para: dark
+2024-11-22 05:46:28.694 | INFO     | src.models.base_model:init_database:51 - Banco de dados inicializado com sucesso
+2024-11-22 05:46:28.705 | ERROR    | __main__:main:156 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 05:46:28.977 | INFO     | src.models.base_model:init_database:51 - Banco de dados inicializado com sucesso
+2024-11-22 05:46:28.982 | ERROR    | __main__:main:156 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 05:46:29.361 | INFO     | src.models.base_model:init_database:51 - Banco de dados inicializado com sucesso
+2024-11-22 05:46:29.366 | ERROR    | __main__:main:156 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 05:46:29.972 | INFO     | src.models.base_model:init_database:51 - Banco de dados inicializado com sucesso
+2024-11-22 05:46:29.976 | ERROR    | __main__:main:156 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 05:46:30.962 | INFO     | src.models.base_model:init_database:51 - Banco de dados inicializado com sucesso
+2024-11-22 05:46:30.966 | ERROR    | __main__:main:156 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 05:46:32.767 | INFO     | src.models.base_model:init_database:51 - Banco de dados inicializado com sucesso
+2024-11-22 05:46:32.771 | ERROR    | __main__:main:156 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 12:36:44.151 | INFO     | src.models.base_model:init_database:51 - Banco de dados inicializado com sucesso
+2024-11-22 12:36:44.394 | INFO     | __main__:run:143 - Iniciando DevGameLauncher
+2024-11-22 12:36:57.111 | INFO     | __main__:toggle_theme:121 - Tema alterado para: dark
+2024-11-22 12:36:57.490 | INFO     | __main__:toggle_theme:121 - Tema alterado para: dark
+2024-11-22 12:36:58.462 | INFO     | __main__:show_settings:135 - Navegando para: Configurações
+2024-11-22 12:36:59.343 | INFO     | __main__:show_settings:135 - Navegando para: Configurações
+2024-11-22 12:37:00.038 | INFO     | __main__:show_settings:135 - Navegando para: Configurações
+2024-11-22 12:37:00.709 | INFO     | __main__:show_settings:135 - Navegando para: Configurações
+2024-11-22 12:37:02.001 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = light
+2024-11-22 12:37:02.822 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = dark
+2024-11-22 12:37:04.255 | INFO     | __main__:toggle_theme:121 - Tema alterado para: dark
+2024-11-22 12:45:04.119 | INFO     | src.models.base_model:init_database:51 - Banco de dados inicializado com sucesso
+2024-11-22 12:45:04.320 | INFO     | __main__:run:143 - Iniciando DevGameLauncher
+2024-11-22 12:45:08.806 | INFO     | __main__:toggle_theme:121 - Tema alterado para: dark
+2024-11-22 12:45:09.486 | INFO     | __main__:toggle_theme:121 - Tema alterado para: dark
+2024-11-22 12:45:10.105 | INFO     | __main__:show_settings:135 - Navegando para: Configurações
+2024-11-22 12:45:11.850 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = light
+2024-11-22 12:45:12.402 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = dark
+2024-11-22 12:45:13.442 | INFO     | __main__:toggle_theme:121 - Tema alterado para: dark
+2024-11-22 12:45:13.803 | INFO     | __main__:toggle_theme:121 - Tema alterado para: dark
+2024-11-22 12:45:19.681 | INFO     | src.models.base_model:init_database:51 - Banco de dados inicializado com sucesso
+2024-11-22 12:45:19.861 | INFO     | __main__:run:153 - Iniciando DevGameLauncher
+2024-11-22 12:45:21.641 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = light
+2024-11-22 12:45:22.184 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = dark
+2024-11-22 12:45:22.994 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = light
+2024-11-22 12:45:23.671 | INFO     | __main__:show_settings:145 - Navegando para: Configurações
+2024-11-22 12:45:24.622 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = dark
+2024-11-22 12:45:25.014 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = light
+2024-11-22 12:45:26.541 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = dark
+2024-11-22 12:45:27.726 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = light
+2024-11-22 12:45:28.768 | INFO     | __main__:show_games:135 - Navegando para: Jogos
+2024-11-22 12:45:29.289 | INFO     | __main__:show_games:135 - Navegando para: Jogos
+2024-11-22 12:45:30.074 | INFO     | __main__:show_tools:140 - Navegando para: Ferramentas
+2024-11-22 12:47:00.473 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = dark
+2024-11-22 12:47:05.825 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = light
+2024-11-22 13:03:37.701 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = dark
+2024-11-22 13:03:39.043 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = light
+2024-11-22 16:08:49.572 | INFO     | src.models.base_model:init_database:51 - Banco de dados inicializado com sucesso
+2024-11-22 16:08:49.582 | ERROR    | __main__:main:166 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 16:08:49.861 | INFO     | src.models.base_model:init_database:51 - Banco de dados inicializado com sucesso
+2024-11-22 16:08:49.866 | ERROR    | __main__:main:166 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 16:08:50.275 | INFO     | src.models.base_model:init_database:51 - Banco de dados inicializado com sucesso
+2024-11-22 16:08:50.280 | ERROR    | __main__:main:166 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 16:08:50.877 | INFO     | src.models.base_model:init_database:51 - Banco de dados inicializado com sucesso
+2024-11-22 16:08:50.882 | ERROR    | __main__:main:166 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 16:08:51.871 | INFO     | src.models.base_model:init_database:51 - Banco de dados inicializado com sucesso
+2024-11-22 16:08:51.876 | ERROR    | __main__:main:166 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 16:08:53.675 | INFO     | src.models.base_model:init_database:51 - Banco de dados inicializado com sucesso
+2024-11-22 16:08:53.679 | ERROR    | __main__:main:166 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 16:08:57.086 | INFO     | src.models.base_model:init_database:51 - Banco de dados inicializado com sucesso
+2024-11-22 16:08:57.091 | ERROR    | __main__:main:166 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 16:09:03.698 | INFO     | src.models.base_model:init_database:51 - Banco de dados inicializado com sucesso
+2024-11-22 16:09:03.702 | ERROR    | __main__:main:166 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 16:09:16.714 | INFO     | src.models.base_model:init_database:51 - Banco de dados inicializado com sucesso
+2024-11-22 16:09:16.719 | ERROR    | __main__:main:166 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 16:12:36.979 | INFO     | src.models.base_model:init_database:61 - Banco de dados inicializado com sucesso
+2024-11-22 16:12:36.987 | ERROR    | __main__:main:166 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 16:12:37.276 | INFO     | src.models.base_model:init_database:61 - Banco de dados inicializado com sucesso
+2024-11-22 16:12:37.282 | ERROR    | __main__:main:166 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 16:12:37.684 | INFO     | src.models.base_model:init_database:61 - Banco de dados inicializado com sucesso
+2024-11-22 16:12:37.692 | ERROR    | __main__:main:166 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 16:12:38.306 | INFO     | src.models.base_model:init_database:61 - Banco de dados inicializado com sucesso
+2024-11-22 16:12:38.312 | ERROR    | __main__:main:166 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 16:12:39.327 | INFO     | src.models.base_model:init_database:61 - Banco de dados inicializado com sucesso
+2024-11-22 16:12:39.332 | ERROR    | __main__:main:166 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 16:12:41.132 | INFO     | src.models.base_model:init_database:61 - Banco de dados inicializado com sucesso
+2024-11-22 16:12:41.138 | ERROR    | __main__:main:166 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 16:12:44.665 | INFO     | src.models.base_model:init_database:61 - Banco de dados inicializado com sucesso
+2024-11-22 16:12:44.670 | ERROR    | __main__:main:166 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 16:12:51.277 | INFO     | src.models.base_model:init_database:61 - Banco de dados inicializado com sucesso
+2024-11-22 16:12:51.283 | ERROR    | __main__:main:166 - Erro ao iniciar a aplicação: couldn't connect to display "host.docker.internal:0"
+2024-11-22 16:13:04.336 | INFO     | src.models.base_model:init_database:61 - Banco de dados inicializado com sucesso
+2024-11-22 16:13:04.423 | INFO     | __main__:run:153 - Iniciando DevGameLauncher
+2024-11-22 16:13:06.279 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = dark
+2024-11-22 16:13:06.995 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = light
+2024-11-22 16:13:07.395 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = dark
+2024-11-22 16:13:08.088 | INFO     | __main__:show_settings:145 - Navegando para: Configurações
+2024-11-22 16:13:09.863 | INFO     | src.models.config_model:update_config:51 - Configuração atualizada: theme = light
+2024-11-22 16:13:11.089 | INFO     | __main__:show_settings:145 - Navegando para: Configurações
+2024-11-22 16:13:11.554 | INFO     | __main__:show_settings:145 - Navegando para: Configurações
+2024-11-22 16:13:11.804 | INFO     | __main__:show_settings:145 - Navegando para: Configurações
+2024-11-22 16:13:13.205 | INFO     | __main__:show_settings:145 - Navegando para: Configurações
+2024-11-22 16:13:13.554 | INFO     | __main__:show_settings:145 - Navegando para: Configurações
+2024-11-22 16:13:13.723 | INFO     | __main__:show_settings:145 - Navegando para: Configurações
+2024-11-22 16:13:13.921 | INFO     | __main__:show_settings:145 - Navegando para: Configurações
+2024-11-22 17:37:58.457 | INFO     | src.models.base_model:init_database:61 - Banco de dados inicializado com sucesso
+2024-11-22 17:37:58.549 | INFO     | __main__:run:153 - Iniciando DevGameLauncher
+2024-11-22 19:37:07.431 | INFO     | src.models.base_model:init_database:61 - Banco de dados inicializado com sucesso
+2024-11-22 19:37:07.522 | INFO     | __main__:run:153 - Iniciando DevGameLauncher
+2024-11-22 19:37:12.449 | INFO     | __main__:show_settings:145 - Navegando para: Configurações
+2024-11-22 19:37:13.050 | INFO     | __main__:show_settings:145 - Navegando para: Configurações
+2024-11-22 19:37:14.000 | INFO     | __main__:show_settings:145 - Navegando para: Configurações
+2024-11-22 19:37:14.999 | INFO     | __main__:show_tools:140 - Navegando para: Ferramentas
+2024-11-22 19:37:15.633 | INFO     | __main__:show_games:135 - Navegando para: Jogos
+2024-11-22 19:37:17.592 | INFO     | src.models.base_model:init_database:61 - Banco de dados inicializado com sucesso
+2024-11-22 19:37:17.652 | INFO     | __main__:run:153 - Iniciando DevGameLauncher
+2024-11-22 19:37:19.366 | INFO     | __main__:show_games:135 - Navegando para: Jogos
+2024-11-22 19:37:21.555 | INFO     | src.models.base_model:init_database:61 - Banco de dados inicializado com sucesso
+2024-11-22 19:37:21.670 | INFO     | __main__:run:153 - Iniciando DevGameLauncher
+2024-11-22 19:53:41.021 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 19:53:41.022 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 19:53:41.024 | INFO     | src.models.config_model:update_config:57 - Configuração atualizada: window_size = 
+2024-11-22 19:53:41.027 | ERROR    | __main__:main:166 - Erro ao iniciar a aplicação: couldn't connect to display ":99"
+2024-11-22 19:54:25.518 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 19:54:25.520 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 19:54:25.530 | ERROR    | __main__:main:166 - Erro ao iniciar a aplicação: couldn't connect to display ":99"
+2024-11-22 19:55:08.115 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 19:55:08.116 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 19:55:08.119 | ERROR    | __main__:main:166 - Erro ao iniciar a aplicação: couldn't connect to display ":99"
+2024-11-23 00:54:44.158 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-23 00:54:44.159 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-23 00:54:44.161 | INFO     | src.models.config_model:update_config:57 - Configuração atualizada: window_size = 
+2024-11-23 00:54:44.248 | INFO     | __main__:run:153 - Iniciando DevGameLauncher
+2024-11-23 00:54:46.304 | INFO     | src.models.config_model:update_config:57 - Configuração atualizada: theme = dark
+2024-11-23 00:54:46.764 | INFO     | src.models.config_model:update_config:57 - Configuração atualizada: theme = light
+2024-11-23 00:54:47.391 | INFO     | __main__:show_settings:145 - Navegando para: Configurações
+2024-11-23 00:54:48.092 | INFO     | __main__:show_settings:145 - Navegando para: Configurações
+2024-11-23 00:56:09.421 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-23 00:56:09.422 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-23 00:56:09.481 | INFO     | __main__:run:153 - Iniciando DevGameLauncher
+2024-11-23 00:56:11.148 | INFO     | __main__:show_settings:145 - Navegando para: Configurações
+2024-11-23 00:58:06.887 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-23 00:58:06.889 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-23 00:58:06.950 | INFO     | __main__:run:153 - Iniciando DevGameLauncher
+2024-11-23 00:58:08.633 | INFO     | __main__:show_settings:145 - Navegando para: Configurações
+2024-11-23 00:58:09.790 | INFO     | __main__:show_settings:145 - Navegando para: Configurações
+2024-11-23 00:58:10.787 | INFO     | __main__:show_settings:145 - Navegando para: Configurações
+2024-11-23 00:58:24.111 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-23 00:58:24.112 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-23 00:58:24.173 | INFO     | __main__:run:153 - Iniciando DevGameLauncher
+2024-11-22 22:05:12.860 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:05:12.860 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:05:12.860 | INFO     | src.models.config_model:update_config:57 - Configuração atualizada: window_size = 
+2024-11-22 22:05:13.167 | INFO     | __main__:run:153 - Iniciando DevGameLauncher
+2024-11-22 22:05:15.655 | INFO     | __main__:show_settings:145 - Navegando para: Configurações
+2024-11-22 22:05:28.991 | INFO     | src.models.config_model:update_config:57 - Configuração atualizada: theme = dark
+2024-11-22 22:07:50.135 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:07:50.136 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:07:50.369 | ERROR    | __main__:main:166 - Erro ao iniciar a aplicação: 'SettingsView' object has no attribute 'fields'
+2024-11-22 22:08:25.318 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:08:25.318 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:08:25.502 | ERROR    | __main__:main:166 - Erro ao iniciar a aplicação: 'SettingsView' object has no attribute 'fields'
+2024-11-22 22:08:30.935 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:08:30.935 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:08:31.119 | INFO     | __main__:run:153 - Iniciando DevGameLauncher
+2024-11-22 22:08:33.166 | INFO     | src.models.config_model:update_config:57 - Configuração atualizada: theme = light
+2024-11-22 22:08:33.582 | INFO     | src.models.config_model:update_config:57 - Configuração atualizada: theme = dark
+2024-11-22 22:08:34.183 | INFO     | __main__:show_settings:145 - Navegando para: Configurações
+2024-11-22 22:08:51.064 | INFO     | __main__:show_tools:140 - Navegando para: Ferramentas
+2024-11-22 22:08:53.015 | INFO     | __main__:show_games:135 - Navegando para: Jogos
+2024-11-22 22:11:55.416 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:11:55.416 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:11:55.662 | INFO     | __main__:run:127 - Iniciando DevGameLauncher
+2024-11-22 22:11:57.694 | INFO     | __main__:show_settings:119 - Navegando para: Configurações
+2024-11-22 22:11:58.352 | INFO     | __main__:show_settings:119 - Navegando para: Configurações
+2024-11-22 22:12:00.412 | INFO     | __main__:show_games:109 - Navegando para: Jogos
+2024-11-22 22:12:01.988 | INFO     | src.models.config_model:update_config:57 - Configuração atualizada: theme = dark
+2024-11-22 22:12:01.989 | INFO     | src.models.config_model:update_config:57 - Configuração atualizada: window_size = 
+2024-11-22 22:17:09.549 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:17:09.549 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:17:09.786 | INFO     | __main__:run:128 - Iniciando DevGameLauncher
+2024-11-22 22:17:11.622 | INFO     | __main__:show_settings:120 - Navegando para: Configurações
+2024-11-22 22:17:14.018 | INFO     | __main__:show_tools:115 - Navegando para: Ferramentas
+2024-11-22 22:17:14.980 | INFO     | __main__:show_games:110 - Navegando para: Jogos
+2024-11-22 22:21:10.850 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:21:10.851 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:21:11.088 | INFO     | __main__:run:135 - Iniciando DevGameLauncher
+2024-11-22 22:23:21.763 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:23:21.763 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:23:22.002 | INFO     | __main__:run:135 - Iniciando DevGameLauncher
+2024-11-22 22:23:33.744 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:23:33.744 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:23:33.928 | INFO     | __main__:run:135 - Iniciando DevGameLauncher
+2024-11-22 22:24:57.366 | INFO     | __main__:show_settings:127 - Navegando para: Configurações
+2024-11-22 22:26:49.953 | INFO     | __main__:show_games:115 - Navegando para: Jogos
+2024-11-22 22:28:42.601 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:28:42.601 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:28:42.851 | ERROR    | __main__:main:148 - Erro ao iniciar a aplicação: BaseView.create_label() got an unexpected keyword argument 'parent'
+2024-11-22 22:31:36.148 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:31:36.148 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:31:36.393 | ERROR    | __main__:main:159 - Erro ao iniciar a aplicação: BaseView.create_label() got an unexpected keyword argument 'parent'
+2024-11-22 22:33:20.581 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:33:20.581 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:33:20.837 | ERROR    | __main__:main:159 - Erro ao iniciar a aplicação: 'SettingsView' object has no attribute 'create_combobox'
+2024-11-22 22:33:59.305 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:33:59.306 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:33:59.544 | ERROR    | __main__:main:159 - Erro ao iniciar a aplicação: 'SettingsView' object has no attribute 'create_combobox'
+2024-11-22 22:34:44.413 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:34:44.414 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:34:44.648 | ERROR    | __main__:main:159 - Erro ao iniciar a aplicação: BaseView.create_combobox() got an unexpected keyword argument 'command'
+2024-11-22 22:35:15.268 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:35:15.269 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:35:15.481 | ERROR    | __main__:main:159 - Erro ao iniciar a aplicação: 'SettingsView' object has no attribute 'fields'
+2024-11-22 22:36:10.237 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:36:10.238 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:36:10.478 | INFO     | __main__:run:146 - Iniciando DevGameLauncher
+2024-11-22 22:36:12.896 | INFO     | __main__:show_games:126 - Navegando para: Jogos
+2024-11-22 22:36:14.871 | INFO     | __main__:show_settings:138 - Navegando para: Configurações
+2024-11-22 22:36:16.782 | INFO     | src.views.settings_view:on_autostart_change:105 - Iniciar com o sistema: 1
+2024-11-22 22:36:18.255 | INFO     | src.views.settings_view:on_autostart_change:105 - Iniciar com o sistema: 0
+2024-11-22 22:36:24.558 | INFO     | src.views.settings_view:on_language_change:99 - Idioma alterado para: English
+2024-11-22 22:36:28.456 | INFO     | src.views.settings_view:on_theme_change:94 - Tema alterado para: Escuro
+2024-11-22 22:36:31.373 | INFO     | src.views.settings_view:on_theme_change:94 - Tema alterado para: Claro
+2024-11-22 22:36:32.814 | INFO     | src.views.settings_view:load_settings:121 - Carregando configurações
+2024-11-22 22:36:37.199 | INFO     | src.views.settings_view:on_theme_change:94 - Tema alterado para: Escuro
+2024-11-22 22:36:41.037 | INFO     | src.views.settings_view:on_theme_change:94 - Tema alterado para: Claro
+2024-11-22 22:36:43.503 | INFO     | src.views.settings_view:save_settings:116 - Salvando configurações: {'theme': 'Claro', 'language': 'English', 'games_dir': '', 'autostart': 0}
+2024-11-22 22:36:43.976 | INFO     | src.views.settings_view:save_settings:116 - Salvando configurações: {'theme': 'Claro', 'language': 'English', 'games_dir': '', 'autostart': 0}
+2024-11-22 22:40:57.443 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:40:57.443 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:40:57.684 | INFO     | __main__:run:146 - Iniciando DevGameLauncher
+2024-11-22 22:40:59.657 | INFO     | __main__:show_games:126 - Navegando para: Jogos
+2024-11-22 22:41:57.164 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:41:57.164 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:41:57.411 | INFO     | __main__:run:152 - Iniciando DevGameLauncher
+2024-11-22 22:41:59.617 | INFO     | __main__:show_games:125 - Navegando para: Jogos
+2024-11-22 22:42:01.633 | INFO     | __main__:show_settings:137 - Navegando para: Configurações
+2024-11-22 22:42:02.857 | INFO     | __main__:show_settings:137 - Navegando para: Configurações
+2024-11-22 22:43:05.732 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:43:05.732 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:43:05.969 | INFO     | __main__:run:155 - Iniciando DevGameLauncher
+2024-11-22 22:43:08.986 | INFO     | __main__:show_games:126 - Navegando para: Jogos
+2024-11-22 22:45:21.468 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:45:21.468 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:45:21.652 | ERROR    | __main__:main:98 - Erro ao iniciar a aplicação: 'DevGameLauncher' object has no attribute 'show_main'
+2024-11-22 22:46:02.767 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:46:02.768 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:46:02.956 | ERROR    | __main__:main:128 - Erro ao iniciar a aplicação: BaseView.create_button() got an unexpected keyword argument 'padx'
+2024-11-22 22:46:52.462 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:46:52.463 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:46:52.810 | INFO     | __main__:run:115 - Iniciando DevGameLauncher
+2024-11-22 22:46:56.631 | INFO     | __main__:show_games:93 - Navegando para: Jogos
+2024-11-22 22:47:03.250 | INFO     | src.views.games_view:remove_game:122 - Removendo jogo
+2024-11-22 22:47:06.234 | INFO     | __main__:show_tools:109 - Navegando para: Ferramentas
+2024-11-22 22:47:07.615 | INFO     | __main__:show_main:85 - Navegando para: Principal
+2024-11-22 22:47:17.917 | INFO     | __main__:show_settings:101 - Navegando para: Configurações
+2024-11-22 22:47:19.567 | INFO     | __main__:show_main:85 - Navegando para: Principal
+2024-11-22 22:48:34.004 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:48:34.004 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 22:48:34.329 | INFO     | __main__:run:85 - Iniciando DevGameLauncher
+2024-11-22 22:48:35.989 | INFO     | src.views.sidebar_view:show_games:86 - Navegando para: Jogos
+2024-11-22 22:48:37.100 | INFO     | src.views.sidebar_view:show_main:78 - Navegando para: Principal
+2024-11-22 22:48:37.900 | INFO     | src.views.sidebar_view:show_tools:102 - Navegando para: Ferramentas
+2024-11-22 22:48:39.622 | INFO     | src.views.sidebar_view:show_settings:94 - Navegando para: Configurações
+2024-11-22 22:48:48.977 | INFO     | src.views.settings_view:on_theme_change:94 - Tema alterado para: Claro
+2024-11-22 22:56:44.660 | INFO     | src.views.sidebar_view:show_games:86 - Navegando para: Jogos
+2024-11-22 22:56:45.583 | INFO     | src.views.sidebar_view:show_main:78 - Navegando para: Principal
+2024-11-22 22:56:46.747 | INFO     | src.views.sidebar_view:show_games:86 - Navegando para: Jogos
+2024-11-22 22:56:47.779 | INFO     | src.views.sidebar_view:show_main:78 - Navegando para: Principal
+2024-11-22 22:56:49.529 | INFO     | src.views.sidebar_view:show_settings:94 - Navegando para: Configurações
+2024-11-22 23:10:44.729 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 23:10:44.730 | INFO     | src.models.base_model:init_database:60 - Banco de dados inicializado com sucesso
+2024-11-22 23:10:45.074 | INFO     | __main__:run:92 - Iniciando DevGameLauncher
+2024-11-22 23:10:47.059 | INFO     | src.views.sidebar_view:navigate_to:81 - Navegando para: Configurações
+2024-11-22 23:10:48.092 | INFO     | src.views.sidebar_view:navigate_to:81 - Navegando para: Jogos
+2024-11-22 23:10:49.149 | INFO     | src.views.sidebar_view:navigate_to:81 - Navegando para: Ferramentas
+2024-11-22 23:10:49.869 | INFO     | src.views.sidebar_view:navigate_to:81 - Navegando para: Principal
+2024-11-22 23:10:50.727 | INFO     | src.views.sidebar_view:navigate_to:81 - Navegando para: Jogos
+2024-11-22 23:10:51.845 | INFO     | src.views.sidebar_view:navigate_to:81 - Navegando para: Principal
+2024-11-22 23:10:53.696 | INFO     | src.views.sidebar_view:navigate_to:81 - Navegando para: Ferramentas
+2024-11-22 23:10:54.815 | INFO     | src.views.sidebar_view:navigate_to:81 - Navegando para: Configurações
+2024-11-22 23:10:59.237 | INFO     | src.views.settings_view:on_theme_change:94 - Tema alterado para: Claro
+2024-11-22 23:11:04.532 | INFO     | src.views.settings_view:save_settings:116 - Salvando configurações: {'theme': 'Claro', 'language': 'Português', 'games_dir': '', 'autostart': 0}
+2024-11-22 23:11:13.089 | INFO     | src.views.sidebar_view:navigate_to:81 - Navegando para: Principal
+2024-11-22 23:11:14.234 | INFO     | src.views.sidebar_view:navigate_to:81 - Navegando para: Jogos
+2024-11-22 23:11:18.727 | INFO     | src.views.sidebar_view:navigate_to:81 - Navegando para: Principal
+2024-11-22 23:11:20.342 | INFO     | src.views.sidebar_view:navigate_to:81 - Navegando para: Jogos
+2024-11-23 00:12:30.058 | INFO     | src.views.games_view:remove_game:122 - Removendo jogo
